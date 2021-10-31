@@ -1,0 +1,15 @@
+body {
+    padding-top: 3%;
+}
+
+.container {
+    text-align: center;
+}
+
+.table_1{
+    background-color: firebrick;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
